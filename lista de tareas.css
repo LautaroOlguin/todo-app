@@ -1,0 +1,50 @@
+h1{
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titulo{
+    text-align: center;
+}
+.at{
+    text-align: center;
+}
+.add{
+    border:groove 2px black;
+    border-radius: 4px 4px 4px 4px;
+    height: 25px;
+}
+.boton{
+    border:groove 2px black;
+    border-radius: 4px 4px 4px 4px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 30px;
+}
+.l{
+    width: 290px;
+    border:groove 2px black;
+    border-radius: 4px 4px 4px 4px;
+    margin: 10px;
+    margin-left: 525px;
+}
+.lt{
+    vertical-align: middle;
+}
+label{
+    text-align: left;
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    vertical-align: middle;
+}
+img{
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+}
+.basurero{
+    background-color: transparent;
+    border: transparent;
+    text-align: right;
+    margin-top: 2PX;
+    vertical-align: middle;
+    float: right;
+}
